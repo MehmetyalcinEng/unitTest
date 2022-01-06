@@ -53,5 +53,13 @@ namespace Test_islem
             Assert.AreEqual(sonuc, 1);
 
         }
+        public void Test_bolme_method3()
+        {
+            Tislem isl = new Tislem();
+
+            double sonuc = isl.bolmeislemi(5, 5);
+            Assert.AreEqual(sonuc, 1);
+
+        }
     }
 }
