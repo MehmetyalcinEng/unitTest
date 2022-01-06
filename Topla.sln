@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topla", "Topla\Topla.csproj", "{75419FC7-3CFC-4172-A9D1-230AD86C6D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_islem", "Test_islem\Test_islem.csproj", "{111060F9-57DE-4153-9DE2-9B949CF7614E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75419FC7-3CFC-4172-A9D1-230AD86C6D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75419FC7-3CFC-4172-A9D1-230AD86C6D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75419FC7-3CFC-4172-A9D1-230AD86C6D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75419FC7-3CFC-4172-A9D1-230AD86C6D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111060F9-57DE-4153-9DE2-9B949CF7614E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111060F9-57DE-4153-9DE2-9B949CF7614E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111060F9-57DE-4153-9DE2-9B949CF7614E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111060F9-57DE-4153-9DE2-9B949CF7614E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A649E7-4584-441D-A1ED-170157D97E68}
+	EndGlobalSection
+EndGlobal
